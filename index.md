@@ -6,3 +6,5 @@ Geralt of Rivia was a legendary witcher of the School of the Wolf active through
 * Combat proven
 * No emotions
 * Can wield some magic
+
+> Why men throw their lives away attacking an armed witcher... I'll never know. Something wrong with my face?
