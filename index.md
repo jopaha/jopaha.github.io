@@ -9,4 +9,4 @@ Geralt of Rivia was a legendary witcher of the School of the Wolf active through
 
 > Why men throw their lives away attacking an armed witcher... I'll never know. Something wrong with my face?
 
-<img src="http://pngimg.com/uploads/witcher/witcher_PNG26.png"/>
+<img src="https://pngimg.com/uploads/witcher/witcher_PNG26.png"/>
